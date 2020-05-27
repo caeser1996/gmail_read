@@ -1,4 +1,4 @@
-![AppVeyor](https://img.shields.io/appveyor/build/caeser1996/gmail_read)
+[![GitHub issues](https://img.shields.io/github/issues/caeser1996/gmail_read)](https://github.com/caeser1996/gmail_read/issues) [![GitHub forks](https://img.shields.io/github/forks/caeser1996/gmail_read)](https://github.com/caeser1996/gmail_read/network) [![GitHub stars](https://img.shields.io/github/stars/caeser1996/gmail_read)](https://github.com/caeser1996/gmail_read/stargazers)
 
 ## Steps for setup 
 #### Create a venv using python -m venv venv
