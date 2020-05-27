@@ -58,7 +58,6 @@ searchEmail = 'ashu.yadav@reliason.com '
 
 msgs = get_emails(search('FROM', searchEmail, connection))
 
-# msgs += get_emails(search('FROM', 'debashis.b@finarbconsulting.com', connection))
 now = datetime.now()
 dt_string = now.strftime("%d_%m_%Y%H_%M_%S")
 
