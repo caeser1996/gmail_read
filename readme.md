@@ -1,3 +1,5 @@
+![AppVeyor](https://img.shields.io/appveyor/build/caeser1996/caeser1996)
+
 ## Steps for setup 
 #### Create a venv using python -m venv venv
 #### Install dependencies using 
